@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + HD  MAYO 22
-http://190.60.39.198:8000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + ABRIL 16
 http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + ABRIL 28
@@ -17,8 +15,6 @@ http://181.115.238.188:6100/play/a08y
 http://181.78.1.158:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
 http://45.236.104.228:7010/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
-http://168.194.171.33:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS  HD
 http://181.78.20.47:9000/play/a01s
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
@@ -91,7 +87,7 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
 https://cdn2.streamgato.us/xtratatv/xtratatv/chunklist_w1647313019.m3u8
 #EXTINF:-1 tvg-id="RAKUTEN ACCION"tvg-name="⭐|RAKUTEN ACCION"tvg-logo="https://i.postimg.cc/Dwhbjrj4/RAKUTEN-ACCION-TV.png"group-title="⭐PELICULAS⭐",⭐|➾RAKUTEN ACCION HD
 https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1 tvg-id="RETROPLUS 3"tvg-name="⭐|RETROPLUS 3"tvg-logo=""group-title="⭐PELICULAS⭐",⭐|➾RETROPLUS 3 MOVIES
+#EXTINF:-1 tvg-id="RETROPLUS 3"tvg-name="⭐|RETROPLUS 3"tvg-logo="https://i.postimg.cc/ryhTQDn0/RETRO-PLUS-MOVIES.png"group-title="⭐PELICULAS⭐",⭐|➾RETROPLUS 3 MOVIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="VIX CINE"tvg-name="⭐|VIX CINE"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71LOnifsRIL.png"group-title="⭐PELICULAS⭐",⭐|➾VIX CINE | UHD
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
@@ -169,6 +165,10 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:-1 tvg-id="PORTAL FOX MIX "tvg-name="⭐|PORTAL FOX MIX "tvg-logo="https://i.postimg.cc/k5CsvJwj/PORTAL-FOX-MIX-NUEVO.png"group-title="⭐MUSICAL⭐",⭐|➾PORTAL FOX MIX * |HD| VE
 https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1616500667.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="MUSIC CHOISE URBAN TV *  "tvg-name="⭐| MUSIC CHOISE URBAN TV *  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE URBAN TV * |HD|
+http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkHL8veLWCtSB6mW1YvaJzo
+#EXTINF:-1 tvg-id="MUSIC CHOISE REGAETTON TV "tvg-name="⭐|MUSIC CHOISE REGAETTON TV "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE REGAETTON TV * |HD|
+http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQspOEnT_Skn947RIfOKKSlk
 #EXTINF:-1 tvg-id="MUSIC CHOISE HITS TV  "tvg-name="⭐|MUSIC CHOISE HITS TV  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE HITS TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQq547nOxLBBeWBO0waAuwzw
 #EXTINF:-1 tvg-id="MUSIC CHOISE LATINO TV  "tvg-name="⭐|MUSIC CHOISE LATINO TV  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE LATINO TV * |HD|
@@ -185,3 +185,148 @@ https://plataformavideo.com:19360/8020/8020.m3u8
 https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1MUS  TV * "tvg-name="⭐|1MUS  TV * "tvg-logo="https://i.postimg.cc/rp72rfMn/1music.png"group-title="⭐MUSICAL⭐",⭐|➾1MUS  TV * |HD|
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="TELE RUMBA *"tvg-name="⭐|TELE RUMBA *"tvg-logo="https://i.postimg.cc/XJv8P9mH/TELERUMBA.png"group-title="⭐MUSICAL⭐",⭐|➾TELE RUMBA * |HD|
+https://inliveserver.com:1936/18506/18506/chunklist_w237701265.m3u8
+#EXTINF:-1 tvg-id="FABULOSA FM 990"tvg-name="⭐|FABULOSA FM 990"tvg-logo="https://i.postimg.cc/T2S732Bx/fabulosa-fm990-espa-ol.png"group-title="⭐MUSICAL⭐",⭐|➾FABULOSA FM 990 | AR
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="PRIME MUSIC TV "tvg-name="⭐|PRIME MUSIC TV "tvg-logo="https://i.postimg.cc/76hsdjdP/TV-PRIME-Music.png"group-title="⭐MUSICAL⭐",⭐|➾PRIME MUSIC TV
+https://tv.clientetvstudio.net:3670/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="IINFINITA TV "tvg-name="⭐|IINFINITA TV "tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png"group-title="⭐MUSICAL⭐",⭐|➾IINFINITA TV * |HD|
+https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="AMORDISCOS TV"tvg-name="⭐|AMORDISCOS TV"tvg-logo="https://i.postimg.cc/zBqbRHGR/AMORDISCOS.png"group-title="⭐MUSICAL⭐",⭐|➾AMORDISCOS TV * |HD| CO
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TELEMUSICA"tvg-name="⭐|TELEMUSICA"tvg-logo="https://i.postimg.cc/SxkYxkdC/TELEMUSICA-VU-TV-PLAYER.png"group-title="⭐MUSICAL⭐",⭐|➾TELEMUSICA * |HD| CO
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="FLASH MUSIC "tvg-name="⭐|FLASH MUSIC"tvg-logo="https://i.postimg.cc/wjbV1yFg/FLASH-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾FLASH MUSIC * |HD|
+https://flash-plex.amagi.tv/flash/master.m3u8
+#EXTINF:-1 tvg-id="VISION TV * "tvg-name="⭐|VISION TV * "tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png"group-title="⭐MUSICAL⭐",⭐|➾VISION TV * |HD|
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-id="UNICA TV * "tvg-name="⭐|UNICA TV * "tvg-logo="https://i.postimg.cc/zByxW9HN/unica.png"group-title="⭐MUSICAL⭐",⭐|➾UNICA TV * |HD| 
+http://iptv.streamhispanatv.net:25461/playgt/123456/105
+#EXTINF:-1 tvg-id="BOX HITS * "tvg-name="⭐|BOX HITS * "tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png"group-title="⭐MUSICAL⭐",⭐|➾BOX HITS * |HD|
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
+http://iptv.streamhispanatv.net:25461/playgt/123456/105
+#EXTINF:-1 tvg-id="LA MEGA MUNDIAL TV * "tvg-name="⭐|LA MEGA MUNDIAL TV * "tvg-logo="https://lamegamundial.com/wp-content/uploads/2020/01/logolamega-vector-01.png"group-title="⭐MUSICAL⭐",⭐|➾LA MEGA MUNDIAL TV * |HD|
+https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
+#EXTINF:-1 tvg-id="COMPANY TV TV * "tvg-name="⭐|COMPANY TV TV * "tvg-logo="https://i.postimg.cc/C1bW42TV/logo-bokka-png-radio-company-2018.png"group-title="⭐MUSICAL⭐",⭐|➾COMPANY TV  * |HD|
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-id="LA VOZ GRUPERA MUSIC TV * "tvg-name="⭐|LA VOZ GRUPERA MUSIC TV * "tvg-logo="https://i.postimg.cc/wTbLnSCP/LA-VOZ-GRUPERA.png"group-title="⭐MUSICAL⭐",⭐|➾LA VOZ GRUPERA MUSIC TV * |HD|
+https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TELERITMO *  "tvg-name="⭐|TELERITMO *  "tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png"group-title="⭐MUSICAL⭐",⭐|➾TELERITMO * |HD|
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="VH1 *  "tvg-name="⭐|VH1 *"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png"group-title="⭐MUSICAL⭐",⭐|➾VH1 * |HD|
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+#EXTINF:-1 tvg-id="CANAL NETS * "tvg-name="⭐|CANAL NETS * "tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png"group-title="⭐MUSICAL⭐",⭐|➾CANAL NETS * |HD|
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="MEMORIAS TV * "tvg-name="⭐|MEMORIAS TV * "tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png"group-title="⭐MUSICAL⭐",⭐|➾MEMORIAS TV * |HD|
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="FRUTILLAR TV * "tvg-name="⭐|FRUTILLAR TV * "tvg-logo="https://i.postimg.cc/yNkKxtN6/FRUTILLAR-TV.png"group-title="⭐MUSICAL⭐",⭐|➾FRUTILLAR TV * |HD| 
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
+#EXTINF:-1 tvg-id="X TV * "tvg-name="⭐|X TV * "tvg-logo="https://i.imgur.com/sJfB0AE.png"group-title="⭐MUSICAL⭐",⭐|➾X TV * |HD| (CHACHAPOYAS)
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:-1 tvg-id="ONDA WEB RADIO  * "tvg-name="⭐|ONDA WEB RADIO  * "tvg-logo="https://i.postimg.cc/wBY8qcD0/ONDA-WEB-RADIO.png"group-title="⭐MUSICAL⭐",⭐|➾ONDA WEB RADIO  * |HD| 
+http://178.33.224.197:1935/ondaradioweb/ondaradioweb/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="VEVO COUNTRY * "tvg-name="⭐|VEVO COUNTRY * "tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO-COUNTRY.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO COUNTRY * |HD| 
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevocountry-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO LATINO *  "tvg-name="⭐|VEVO LATINO *  "tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO LATINO * |HD| 
+https://amg00056-vevotv-vevolatino-localnow-hc6lb.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO ICONOS LATINOS * "tvg-name="⭐|VEVO ICONOS LATINOS * "tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ICONOS LATINOS * |HD|
+https://amg00056-vevotv-vevoiconos-localnow-vc4o6.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO POP * "tvg-name="⭐|VEVO POP * "tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO-POP-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO POP * |HD|
+https://amg00056-vevotv-vevopop-localnow-0c0pg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO R&B * "tvg-name="⭐|VEVO R&B * "tvg-logo="https://i.postimg.cc/kgs7XXjm/VEVO-R-B-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO R&B * |HD|
+https://amg00056-vevotv-vevornb-localnow-e6fya.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO REGGAETTON * "tvg-name="⭐|VEVO REGGAETTON * "tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO REGGAETTON * |HD|
+https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO RETRO ROCK * "tvg-name="⭐|VEVO RETRO ROCK * "tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO RETRO ROCK * |HD|
+https://amg00056-vevotv-vevoretrorock-localnow-k4zs8.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO REGIONAL MEXICO *  "tvg-name="⭐|VEVO REGIONAL MEXICO * "tvg-logo="https://i.postimg.cc/NM9t48Qs/VEVOREGIONAL-MEXICO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO REGIONAL MEXICO * |HD|
+https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO ¨70s * "tvg-name="⭐|VEVO ¨70s * "tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/636d070cca6a0e3116067ef6"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨70s * |HD|
+https://amg00056-vevotv-vevo70s-localnow-54fdh.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="➾VEVO ¨80s* "tvg-name="⭐|➾VEVO ¨80s* "tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/636d06ef715b35b9b40a7a73"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨80s* |HD|
+https://amg00056-vevotv-vevo80s-localnow-62dfp.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VEVO ¨90s* "tvg-name="⭐|VEVO ¨90s* "tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/636d06d9a5e358c0590ce85b"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨90s* |HD|
+https://amg00056-vevotv-vevo90s-localnow-n1kem.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="REAL MADRID"tvg-name="⚽|REAL MADRID"tvg-logo="https://i.postimg.cc/pd3v02Pb/REAL-MADRID-esp-TV.png"group-title="⚽DEPORTES⚽",⚽|REAL MADRID  TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS"tvg-name="⚽|CLARO SPORTS"tvg-logo="https://i.postimg.cc/sfZgqQgq/CLARO-SPORTS.png"group-title="⚽DEPORTES⚽",⚽|➾ CLARO SPORTS SPORTS  TV * |HD|
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index_133.m3u8
+#EXTINF:-1 tvg-id="CITY SPORTS"tvg-name="⚽|CITY SPORTS"tvg-logo="https://i.postimg.cc/tCvMtqMS/CITY-SPORTS-ESP.png"group-title="⚽DEPORTES⚽",⚽|➾ CITY SPORTS  TV * |HD|
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+#EXTINF:-1 tvg-id="BILLARD TV"tvg-name="⚽|BILLARD TV"tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png"group-title="⚽DEPORTES⚽",⚽|➾BILLARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="BILLARD TV"tvg-name="⚽|BILLARD TV"tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png"group-title="⚽DEPORTES⚽",⚽|➾BILLARD TV
+https://newidco-billiardstv-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WORLD BILLARDS TC"tvg-name="⚽|WORLDS BILLARDS TV"tvg-logo="https://i.postimg.cc/j21Xqsmd/World-Billiards-logo-svg.png"group-title="⚽DEPORTES⚽",⚽|➾BILLARDS TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
+#EXTINF:-1 tvg-id="FOX SPORTS 2"tvg-name="⚽|FOX SPORTS 2"tvg-logo="https://i.postimg.cc/BZCKdykv/FOX-SPORTSDOS.png"group-title="⚽DEPORTES⚽",⚽|➾FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS"tvg-name="⚽|FOX SPORTS "tvg-logo="https://i.postimg.cc/C5BD5hkF/FOX-SPORTS1.png"group-title="⚽DEPORTES⚽",⚽|➾FOX SPORTS 
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-id="TVRI SPORTS "tvg-name="⚽|TVRI SPORTS"tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png"group-title="⚽DEPORTES⚽",⚽|➾TVRI SPORTS INDONESIA ðŸ‡®ðŸ‡©
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="THRILL SPORTS"tvg-name="⚽|THRILSPORTS"tvg-logo="https://i.postimg.cc/DzrrckyT/Pink-Thriller-logo.png"group-title="⚽DEPORTES⚽",⚽|➾THRILL SPORTS TV 
+https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="STROGMAN CHAMPIONS LEAGUE"tvg-name="⚽|STROGMAN CHAMPIONS LEAGUE"tvg-logo="https://i.postimg.cc/wT8wgYj8/World-strongmen-logo-1.png"group-title="⚽DEPORTES⚽",⚽|➾STROGMAN CHAMPIONS LEAGUE
+https://dai.google.com/linear/hls/event/09xphPXPS4qRlr_PAIrkVA/master.m3u8
+#EXTINF:-1 tvg-id="TVRI DEPORTES"tvg-name="⚽|TVRI DEPORTES"tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png"group-title="⚽DEPORTES⚽",⚽|➾TVRI DEPORTES
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
+#EXTINF:-1 tvg-id="UFC "tvg-name="⚽|UFC"tvg-logo="https://i.postimg.cc/jS7pNmyv/UFC-Network.png"group-title="⚽DEPORTES⚽",⚽|➾UFC HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL"tvg-name="⚽|TENNIS CHANNEL"tvg-logo="https://i.postimg.cc/mkVwf0Vx/TENNIS-CHANNEL-2.png"group-title="⚽DEPORTES⚽",⚽|➾TENNIS CHANNEL HD
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TYC SPORTS HD "tvg-name="⚽|TYC SPORTS HD "tvg-logo="https://i.postimg.cc/FHq974nC/Ty-C-Sports-1994-2.png"group-title="⚽DEPORTES⚽",⚽|➾TYC SPORTS HD
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1 tvg-id="МAT4! СТРАНА TV "tvg-name="⚽|МAT4! СТРАНА TV "tvg-logo="https://i.postimg.cc/bJcxRCGR/EHp-K-m-RWk-AEyxmn.png"group-title="⚽DEPORTES⚽",⚽|➾МAT4! СТРАНА TV * |HD|
+http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="МAT4! ФУТБОЛ"tvg-name="⚽|МAT4! ФУТБОЛ"tvg-logo="https://i.postimg.cc/J0pcwXyd/math0001.png"group-title="⚽DEPORTES⚽",⚽|➾МAT4! ФУТБОЛ TV * |HD|
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="МAT4! АРЕНА"tvg-name="⚽|МAT4! АРЕНА"tvg-logo="https://picon.ml/match-planeta.png"group-title="⚽DEPORTES⚽",⚽|➾МAT4! АРЕНА TV * |HD|
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="МAT4! ПЛАНЕТА "tvg-name="⚽|МAT4! ПЛАНЕТА"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾МAT4! ПЛАНЕТА  TV * |HD|
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="DEPORTES USA TV"tvg-name="⚽|DEPORTES USA TV"tvg-logo="https://i.postimg.cc/GpGM6Cbj/GOtv-Boxing-Night.png"group-title="⚽DEPORTES⚽",⚽|➾DEPORTES USA TV
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/847a7aa7-9acb-4e2b-8f4e-a2ebaaf8b4ab.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 2"tvg-name="⚽|FOX SPORTS 2"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾FOX SPORTS 2 HD
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-id="EUROSPORT 1"tvg-name="⚽|EUROSPORT 1"tvg-logo="https://i.postimg.cc/9Qt3MsxZ/EURO-SPORTS-1.png"group-title="⚽DEPORTES⚽",⚽|➾EUROSPORT 1
+http://51.15.9.155/EUROSPORT_1/index.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2"tvg-name="⚽|EUROSPORT 2"tvg-logo="https://i.postimg.cc/cLNRhzdD/EURO-SPORTS-2.png"group-title="⚽DEPORTES⚽",⚽|➾EUROSPORT 2
+http://194.143.148.28/MatchHD/mono.m3u8
+#EXTINF:-1 tvg-id="TVRI SPORT HD"tvg-name="⚽|TVRI SPORT HD"tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png"group-title="⚽DEPORTES⚽",⚽|➾TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="VIVARO ARENA"tvg-name="⚽|VIVARO ARENA"tvg-logo="https://i.postimg.cc/kgbKp2hC/948-group-113.png"group-title="⚽DEPORTES⚽",⚽|➾VIVARO ARENA
+http://iptv.home-iptv.ru:25500/play/varena/index.m3u8?token=armenia
+#EXTINF:-1 tvg-id="TIGO SPORTS 1"tvg-name="⚽|TIGO SPORTS 1"tvg-logo="https://sport-tv-guide.live/images/tv-station-tigo-sports-bo-1731.png"group-title="⚽DEPORTES⚽",⚽|➾BOLIVIA - TIGO SPORTS 1 EVENTOS
+http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+#EXTINF:-1 tvg-id="TIGO SPORTS 2"tvg-name="⚽|TIGO SPORTS 2"tvg-logo="https://sport-tv-guide.live/images/tv-station-tigo-sports-bo-1731.png"group-title="⚽DEPORTES⚽",⚽|➾BOLIVIA - TIGO SPORTS 2 EVENTOS
+http://mastertv.pro:8080/live/Jona/wSrWvN/86101.m3u8
+#EXTINF:-1 tvg-id="TYC SPORTS PLAY 8"tvg-name="⚽|TYC SPORTS PLAY 8"tvg-logo="https://i.postimg.cc/xCDZcBzz/Ty-C-Sports-1994-1.png"group-title="⚽DEPORTES⚽",⚽|➾TYC SPORTS PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TYC SPORTS PLAY 7"tvg-name="⚽|TYC SPORTS PLAY 7"tvg-logo="https://i.postimg.cc/xCDZcBzz/Ty-C-Sports-1994-1.png"group-title="⚽DEPORTES⚽",⚽|➾TYC SPORTS PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TYC SPORTS PLAY 6"tvg-name="⚽|TYC SPORTS PLAY 6"tvg-logo="https://i.postimg.cc/FHq974nC/Ty-C-Sports-1994-2.png"group-title="⚽DEPORTES⚽",⚽|➾TYC SPORTS PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TYC SPORTS PLAY 5"tvg-name="⚽|TYC SPORTS PLAY 5"tvg-logo="https://i.postimg.cc/FHq974nC/Ty-C-Sports-1994-2.png"group-title="⚽DEPORTES⚽",⚽|➾TYC SPORTS PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TYC SPORTS PLAY 3"tvg-name="⚽|TYC SPORTS PLAY 3"tvg-logo="https://i.postimg.cc/XYnJqs8T/tyc-sports-internacional.png"group-title="⚽DEPORTES⚽",⚽|➾TYC SPORTS PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="RED BULL TV "tvg-name="⚽|RED BULL TV"tvg-logo="https://i.imgur.com/7NeBmWX.jpg"group-title="⚽DEPORTES⚽",⚽|➾RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="EVENTOS TNT SPORTS 1"tvg-name="⚽|EVENTOS TNT SPORTS 1"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾EVENTOS TNT SPORTS 1 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="EVENTOS TNT SPORTS 2"tvg-name="⚽|EVENTOS TNT SPORTS 2"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾EVENTOS TNT SPORTS 2 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="EVENTOS TNT SPORTS 3"tvg-name="⚽|EVENTOS TNT SPORTS 3"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾EVENTOS TNT SPORTS 3 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="EVENTOS TNT SPORTS 4"tvg-name="⚽|EVENTOS TNT SPORTS 4"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾EVENTOS TNT SPORTS 4 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="EVENTOS TNT SPORTS 5"tvg-name="⚽|EVENTOS TNT SPORTS 5"tvg-logo=""group-title="⚽DEPORTES⚽",⚽|➾EVENTOS TNT SPORTS 5 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
