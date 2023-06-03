@@ -3,8 +3,6 @@
 http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + ABRIL 28
 http://181.78.3.162:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/ZKqGqJwV/WIN_BOTON_AMARILLO.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + ABRIL 24
-http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win Sports + FEB-19
@@ -25,8 +23,6 @@ http://181.78.24.187:8006/play/a007/index.m3u8
 http://181.78.3.162:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
 http://181.224.161.138:1010/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
-http://186.96.111.23:8000/play/a01b
 #EXTINF:-1 tvg-id="SAN ISIDRO"tvg-name="⭐|SAN ISIDRO"tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="⭐PELICULAS⭐",⭐|➾SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVES SAN JOSE"tvg-name="⭐|TVES SAN JOSE"tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png"group-title="⭐PELICULAS⭐",⭐|➾DARK MATTER TV* |HD|
@@ -131,6 +127,8 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="TVS RETRO"tvg-name="⭐|TVS RETRO"tvg-logo="https://i.postimg.cc/DZk8jbzw/tvs.png"group-title="⭐PELICULAS⭐",⭐|➾TVS RETRO HD
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="UNICA TV  * "tvg-name="⭐UNICA TV  * "tvg-logo="https://i.postimg.cc/BZjJst6d/unica.png"group-title="⭐PELICULAS⭐",⭐|➾UNICA TV * |HD|
+http://iptv.streamhispanatv.net:25461/playgt/123456/105
 #EXTINF:-1 tvg-id="CINE ACCION"tvg-name="⭐|XTREMA CINE ACCION"tvg-logo="https://i.postimg.cc/fLR1Qr1s/XTREMA-TV-ACCION.png" group-title="⭐PELICULAS⭐",⭐|➾XTREMA CINE ACCION HD
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE SUSPENSO"tvg-name="⭐|XTREMA  CINE SUSPENSO"tvg-logo="https://i.postimg.cc/9fgzhvzt/XTREMA-TV-SUSPENSO.png" group-title="⭐PELICULAS⭐",⭐|➾XTREMA  CINE SUSPENSO HD
@@ -248,6 +246,28 @@ https://amg00056-vevotv-vevo70s-localnow-54fdh.amagi.tv/playlist.m3u8
 https://amg00056-vevotv-vevo80s-localnow-62dfp.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VEVO ¨90s* "tvg-name="⭐|VEVO ¨90s* "tvg-logo="https://i.postimg.cc/HsfdZKF8/VEVO90s.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨90s* |HD|
 https://amg00056-vevotv-vevo90s-localnow-n1kem.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PANAVISION TV * "tvg-name=" ⭐ PANAVISION TV * "tvg-logo="https://i.imgur.com/5LOhDq4.png"group-title="⭐MUSICAL⭐",⭐|➾PANAVISION TV VENEZUELA * |HD|
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1661923004.m3u8
+#EXTINF:-1 tvg-id="CITRICO TV  * "tvg-name=" ⭐ CITRICO TV  * "tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg"group-title=" ⭐MUSICAL⭐ ",⭐|➾ * |HD|
+https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MAKAO TV * "tvg-name="⭐MAKAO TV * "tvg-logo="https://i.postimg.cc/PJGn39CG/MAKAO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾MAKAO TV * |HD|
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-id="OXIGENO TV * "tvg-name="⭐OXIGENO TV * "tvg-logo="https://i.postimg.cc/Dwk4WxfS/OXIGENO-TV-PNG-1.png"group-title="⭐MUSICAL⭐",⭐|➾OXIGENO TV * |HD|
+https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
+#EXTINF:-1 tvg-id="MAS FM 95.9 * "tvg-name="⭐MAS FM 95.9 * "tvg-logo="https://i.postimg.cc/HsnsrVj0/MAS-FM-95-9-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾MAS FM 95.9 * |HD|
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="CITRICO TV  * "tvg-name="⭐CITRICO TV  * "tvg-logo="https://i.postimg.cc/9XJy3Rvy/CITRICO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾CITRICO TV  * |HD|
+https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="POWER HD * "tvg-name="⭐POWER HD * "tvg-logo="https://i.postimg.cc/q77rQ6mZ/POWEWR-HD-small.png"group-title="⭐MUSICAL⭐",⭐|➾POWER TV * |HD|
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 tvg-id="TVM 3 TV * "tvg-name="⭐TVM 3 TV * "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png"group-title="⭐MUSICAL⭐",⭐|➾TVM 3 TV * |HD|
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id="MILENIO TV  * "tvg-name="⭐MILENIO TV  * "tvg-logo="https://i.postimg.cc/DZ4XspQZ/milennio-tvesp.png"group-title="⭐MUSICAL⭐",⭐|➾MILENIO TV  * |HD|
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="SHOWVEN TV  * "tvg-name="⭐SHOWVEN TV  * "tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png"group-title="⭐MUSICAL⭐",⭐|➾SHOWVEN TV  * |HD|
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CANTINA TV  * "tvg-name="⭐CANTINA TV  * "tvg-logo="https://i.postimg.cc/SRcMvdzh/LA-CANTINA-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾CANTINA TV  * |HD|
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
