@@ -23,7 +23,7 @@ http://181.78.20.47:9000/play/a05p
 http://181.78.24.187:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
 http://181.224.161.138:1010/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾TERROR TV * | CL * |HD|
+#EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐PELICULAS⭐",⭐|➾TERROR TV * | CL * |HD|
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EXPRESION TV * "tvg-name="⭐EXPRESION TV * "tvg-logo="https://i.postimg.cc/3Nz18790/EXPREZION-TV.png"group-title="⭐MUSICAL⭐",⭐|➾EXPRESION TV | CL * |HD|
 https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
@@ -272,8 +272,10 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CANTINA TV  * "tvg-name="⭐CANTINA TV  * "tvg-logo="https://i.postimg.cc/SRcMvdzh/LA-CANTINA-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾CANTINA TV  * |HD|
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id=" VCLASSIC TV * "tvg-name="⭐ VCLASSIC TV * "tvg-logo="https://i.postimg.cc/XvF3tCw9/VCLASSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾ VClSSIC TV  * |HD|
+#EXTINF:-1 tvg-id=" V CLASSIC TV * "tvg-name="⭐ V CLASSIC TV * "tvg-logo="https://i.postimg.cc/XvF3tCw9/VCLASSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾ V ClASSIC TV  * |HD|
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="V CLASSIC TROPICAL* "tvg-name="⭐V CLASSIC TROPICAL * "tvg-logo="https://i.postimg.cc/c4SWw7zy/VCLASSICTV-TROPICAL.png"group-title="⭐MUSICAL⭐",⭐|➾ VClASSIC TV  * |HD|
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="LATINOS RADIO * "tvg-name="⭐LATINOS RADIO * "tvg-logo="https://i.postimg.cc/9X6RcWrc/LATINOS-RADIO-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾LATINOS RADIO * | CL * |HD|
 https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="PLANETA TV MUSIC * "tvg-name="⭐PLANETA TV MUSIC * "tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="⭐MUSICAL⭐",⭐|➾PLANETA TV MUSIC * | CL * |HD|
