@@ -1,18 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + JUNIO 04
+http://181.39.202.98:9993/play/a17i/index.m3u8
+#EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + JUNIO 04
+http://181.63.102.144:12000/play/a0kw/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + 
 http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + ABRIL 16
 http://181.224.161.138:1010/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win + ABRIL 28
-http://181.78.3.162:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win Sports + FEB-19
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS +"tvg-name="⚽➾ |WIN SPORTS +"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",⚽|➾| Win Sports + MAYO 27
 http://181.115.238.188:6100/play/a08y
-#EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS MAYO 19
-http://181.78.1.158:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
 http://45.236.104.228:7010/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS  HD
@@ -22,9 +22,11 @@ http://181.78.20.47:9000/play/a05p
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
 http://181.78.24.187:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
-http://181.78.3.162:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="WIN SPORTS"tvg-name="⚽➾ |WIN SPORTS "tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS ⚽",⚽|➾| WIN SPORTS HD
 http://181.224.161.138:1010/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾TERROR TV * | CL * |HD|
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="EXPRESION TV * "tvg-name="⭐EXPRESION TV * "tvg-logo="https://i.postimg.cc/3Nz18790/EXPREZION-TV.png"group-title="⭐MUSICAL⭐",⭐|➾EXPRESION TV | CL * |HD|
+https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SAN ISIDRO"tvg-name="⭐|SAN ISIDRO"tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="⭐PELICULAS⭐",⭐|➾SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVES SAN JOSE"tvg-name="⭐|TVES SAN JOSE"tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png"group-title="⭐PELICULAS⭐",⭐|➾DARK MATTER TV* |HD|
@@ -165,11 +167,11 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:-1 tvg-id="PORTAL FOX MIX "tvg-name="⭐|PORTAL FOX MIX "tvg-logo="https://i.postimg.cc/k5CsvJwj/PORTAL-FOX-MIX-NUEVO.png"group-title="⭐MUSICAL⭐",⭐|➾PORTAL FOX MIX * |HD| VE
 https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1616500667.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="MUSIC CHOISE URBAN TV *  "tvg-name="⭐| MUSIC CHOISE URBAN TV *  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE URBAN TV * |HD|
+#EXTINF:-1 tvg-id="MUSIC CHOISE URBAN TV *  "tvg-name="⭐| MUSIC CHOISE URBAN TV *  "tvg-logo="https://i.postimg.cc/3rcRgLqS/Music-Choice-gris.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE URBAN TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkHL8veLWCtSB6mW1YvaJzo
-#EXTINF:-1 tvg-id="MUSIC CHOISE REGAETTON TV "tvg-name="⭐|MUSIC CHOISE REGAETTON TV "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE REGAETTON TV * |HD|
+#EXTINF:-1 tvg-id="MUSIC CHOISE REGAETTON TV "tvg-name="⭐|MUSIC CHOISE REGAETTON TV "tvg-logo="https://i.postimg.cc/3rcRgLqS/Music-Choice-gris.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE REGAETTON TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQspOEnT_Skn947RIfOKKSlk
-#EXTINF:-1 tvg-id="MUSIC CHOISE HITS TV  "tvg-name="⭐|MUSIC CHOISE HITS TV  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE HITS TV * |HD|
+#EXTINF:-1 tvg-id="MUSIC CHOISE HITS TV  "tvg-name="⭐|MUSIC CHOISE HITS TV  "tvg-logo="https://i.postimg.cc/3rcRgLqS/Music-Choice-gris.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE HITS TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQq547nOxLBBeWBO0waAuwzw
 #EXTINF:-1 tvg-id="MUSIC CHOISE LATINO TV  "tvg-name="⭐|MUSIC CHOISE LATINO TV  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE LATINO TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkBgS19S-DTSG6z-NIdVCsQ
@@ -270,6 +272,14 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CANTINA TV  * "tvg-name="⭐CANTINA TV  * "tvg-logo="https://i.postimg.cc/SRcMvdzh/LA-CANTINA-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾CANTINA TV  * |HD|
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=" VCLASSIC TV * "tvg-name="⭐ VCLASSIC TV * "tvg-logo="https://i.postimg.cc/XvF3tCw9/VCLASSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾ VClSSIC TV  * |HD|
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="LATINOS RADIO * "tvg-name="⭐LATINOS RADIO * "tvg-logo="https://i.postimg.cc/9X6RcWrc/LATINOS-RADIO-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾LATINOS RADIO * | CL * |HD|
+https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="PLANETA TV MUSIC * "tvg-name="⭐PLANETA TV MUSIC * "tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="⭐MUSICAL⭐",⭐|➾PLANETA TV MUSIC * | CL * |HD|
+https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="HOUSE MUSIC TV * "tvg-name="⭐HOUSE MUSIC TV * "tvg-logo="https://i.postimg.cc/KjNSLhyp/HOUSE-MUSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾HOUSE MUSIC TV * | CL * |HD|
+https://paneltv.net:3767/stream/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
