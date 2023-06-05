@@ -25,6 +25,8 @@ http://181.78.24.187:8006/play/a007/index.m3u8
 http://181.224.161.138:1010/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐PELICULAS⭐",⭐|➾TERROR TV * | CL * |HD|
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CNC SEÑAL DIGITAL *"tvg-name="⭐|➾CNC SEÑAL DIGITAL * "tvg-logo="https://i.postimg.cc/Gm3Q2rF2/CNC-SE-AL-DIGITAL.png"group-title="⭐MUSICAL⭐",⭐|➾CNC SEÑAL DIGITAL * |HD|
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="EXPRESION TV * "tvg-name="⭐EXPRESION TV * "tvg-logo="https://i.postimg.cc/3Nz18790/EXPREZION-TV.png"group-title="⭐MUSICAL⭐",⭐|➾EXPRESION TV | CL * |HD|
 https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SAN ISIDRO"tvg-name="⭐|SAN ISIDRO"tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="⭐PELICULAS⭐",⭐|➾SAN ISIDRO TV
@@ -175,11 +177,11 @@ http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQspOEnT_Skn947RIfOKKSlk
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQq547nOxLBBeWBO0waAuwzw
 #EXTINF:-1 tvg-id="MUSIC CHOISE LATINO TV  "tvg-name="⭐|MUSIC CHOISE LATINO TV  "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="⭐MUSICAL⭐",⭐|➾MUSIC CHOISE LATINO TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkBgS19S-DTSG6z-NIdVCsQ
-#EXTINF:-1 tvg-id="FM HIT TV "tvg-name="⭐|FM HIT TV "tvg-logo="https://i.postimg.cc/hvPyzjwd/HIT-FM-2020-logo-svg.png"group-title="⭐MUSICAL⭐",⭐|➾FM HIT TV * |HD|
+#EXTINF:-1 tvg-id="FM HIT TV "tvg-name="⭐|➾FM HIT TV "tvg-logo="https://i.postimg.cc/hvPyzjwd/HIT-FM-2020-logo-svg.png"group-title="⭐MUSICAL⭐",⭐|➾FM HIT TV * |HD|
 https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3Uronnyjaguar
-#EXTINF:-1 tvg-id="LA DESPECHADA TV * "tvg-name="⭐|LA DESPECHADA TV * "tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png"group-title="⭐MUSICAL⭐",⭐|➾LA DESPECHADA TV * |HD|CO
+#EXTINF:-1 tvg-id="LA DESPECHADA TV * "tvg-name="⭐|➾LA DESPECHADA TV * "tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png"group-title="⭐MUSICAL⭐",⭐|➾LA DESPECHADA TV * |HD|CO
 https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 tvg-id="GLOBAL TV * "tvg-name="⭐|GLOBAL TV * "tvg-logo="https://i.postimg.cc/TwMmm6xB/Global-TV-logo.png"group-title="⭐MUSICAL⭐",⭐|➾GLOBAL TV * |HD| 
+#EXTINF:-1 tvg-id="GLOBAL TV * "tvg-name="⭐|➾GLOBAL TV * "tvg-logo="https://i.postimg.cc/TwMmm6xB/Global-TV-logo.png"group-title="⭐MUSICAL⭐",⭐|➾GLOBAL TV * |HD| 
 https://stmv.video.gmpro.top/global/global/playlist.m3u8 
 #EXTINF:-1 tvg-id="HUILA TV * "tvg-name="⭐|HUILA TV * "tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾HUILA TV * |HD|
 https://plataformavideo.com:19360/8020/8020.m3u8  
@@ -199,89 +201,115 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELEMUSICA"tvg-name="⭐|TELEMUSICA"tvg-logo="https://i.postimg.cc/SxkYxkdC/TELEMUSICA-VU-TV-PLAYER.png"group-title="⭐MUSICAL⭐",⭐|➾TELEMUSICA * |HD| CO
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="FLASH MUSIC "tvg-name="⭐|FLASH MUSIC"tvg-logo="https://i.postimg.cc/wjbV1yFg/FLASH-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾FLASH MUSIC * |HD|
+#EXTINF:-1 tvg-id="FLASH MUSIC "tvg-name="⭐|➾FLASH MUSIC"tvg-logo="https://i.postimg.cc/wjbV1yFg/FLASH-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾FLASH MUSIC * |HD|
 https://flash-plex.amagi.tv/flash/master.m3u8
-#EXTINF:-1 tvg-id="VISION TV * "tvg-name="⭐|VISION TV * "tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png"group-title="⭐MUSICAL⭐",⭐|➾VISION TV * |HD|
+#EXTINF:-1 tvg-id="VISION TV * "tvg-name="⭐|➾VISION TV * "tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png"group-title="⭐MUSICAL⭐",⭐|➾VISION TV * |HD|
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 tvg-id="UNICA TV * "tvg-name="⭐|UNICA TV * "tvg-logo="https://i.postimg.cc/zByxW9HN/unica.png"group-title="⭐MUSICAL⭐",⭐|➾UNICA TV * |HD| 
+#EXTINF:-1 tvg-id="UNICA TV * "tvg-name="⭐|➾UNICA TV * "tvg-logo="https://i.postimg.cc/zByxW9HN/unica.png"group-title="⭐MUSICAL⭐",⭐|➾UNICA TV * |HD| 
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
-#EXTINF:-1 tvg-id="BOX HITS * "tvg-name="⭐|BOX HITS * "tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png"group-title="⭐MUSICAL⭐",⭐|➾BOX HITS * |HD|
+#EXTINF:-1 tvg-id="BOX HITS * "tvg-name="⭐|➾BOX HITS * "tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png"group-title="⭐MUSICAL⭐",⭐|➾BOX HITS * |HD|
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
-#EXTINF:-1 tvg-id="LA MEGA MUNDIAL TV * "tvg-name="⭐|LA MEGA MUNDIAL TV * "tvg-logo="https://lamegamundial.com/wp-content/uploads/2020/01/logolamega-vector-01.png"group-title="⭐MUSICAL⭐",⭐|➾LA MEGA MUNDIAL TV * |HD|
+#EXTINF:-1 tvg-id="LA MEGA MUNDIAL TV * "tvg-name="⭐|➾LA MEGA MUNDIAL TV * "tvg-logo="https://lamegamundial.com/wp-content/uploads/2020/01/logolamega-vector-01.png"group-title="⭐MUSICAL⭐",⭐|➾LA MEGA MUNDIAL TV * |HD|
 https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
-#EXTINF:-1 tvg-id="COMPANY TV TV * "tvg-name="⭐|COMPANY TV TV * "tvg-logo="https://i.postimg.cc/C1bW42TV/logo-bokka-png-radio-company-2018.png"group-title="⭐MUSICAL⭐",⭐|➾COMPANY TV  * |HD|
+#EXTINF:-1 tvg-id="COMPANY TV TV * "tvg-name="⭐|➾COMPANY TV TV * "tvg-logo="https://i.postimg.cc/C1bW42TV/logo-bokka-png-radio-company-2018.png"group-title="⭐MUSICAL⭐",⭐|➾COMPANY TV  * |HD|
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1 tvg-id="LA VOZ GRUPERA MUSIC TV * "tvg-name="⭐|LA VOZ GRUPERA MUSIC TV * "tvg-logo="https://i.postimg.cc/wTbLnSCP/LA-VOZ-GRUPERA.png"group-title="⭐MUSICAL⭐",⭐|➾LA VOZ GRUPERA MUSIC TV * |HD|
+#EXTINF:-1 tvg-id="LA VOZ GRUPERA MUSIC TV * "tvg-name="⭐|➾LA VOZ GRUPERA MUSIC TV * "tvg-logo="https://i.postimg.cc/wTbLnSCP/LA-VOZ-GRUPERA.png"group-title="⭐MUSICAL⭐",⭐|➾LA VOZ GRUPERA MUSIC TV * |HD|
 https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TELERITMO *  "tvg-name="⭐|TELERITMO *  "tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png"group-title="⭐MUSICAL⭐",⭐|➾TELERITMO * |HD|
+#EXTINF:-1 tvg-id="TELERITMO *  "tvg-name="⭐|➾TELERITMO *  "tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png"group-title="⭐MUSICAL⭐",⭐|➾TELERITMO * |HD|
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="VH1 *  "tvg-name="⭐|VH1 *"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png"group-title="⭐MUSICAL⭐",⭐|➾VH1 * |HD|
+#EXTINF:-1 tvg-id="VH1 *  "tvg-name="⭐|➾VH1 *"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png"group-title="⭐MUSICAL⭐",⭐|➾VH1 * |HD|
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
-#EXTINF:-1 tvg-id="CANAL NETS * "tvg-name="⭐|CANAL NETS * "tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png"group-title="⭐MUSICAL⭐",⭐|➾CANAL NETS * |HD|
+#EXTINF:-1 tvg-id="CANAL NETS * "tvg-name="⭐|➾CANAL NETS * "tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png"group-title="⭐MUSICAL⭐",⭐|➾CANAL NETS * |HD|
 https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="MEMORIAS TV * "tvg-name="⭐|MEMORIAS TV * "tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png"group-title="⭐MUSICAL⭐",⭐|➾MEMORIAS TV * |HD|
+#EXTINF:-1 tvg-id="MEMORIAS TV * "tvg-name="⭐|➾MEMORIAS TV * "tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png"group-title="⭐MUSICAL⭐",⭐|➾MEMORIAS TV * |HD|
 https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 tvg-id="FRUTILLAR TV * "tvg-name="⭐|FRUTILLAR TV * "tvg-logo="https://i.postimg.cc/yNkKxtN6/FRUTILLAR-TV.png"group-title="⭐MUSICAL⭐",⭐|➾FRUTILLAR TV * |HD| 
+#EXTINF:-1 tvg-id="FRUTILLAR TV * "tvg-name="⭐|➾FRUTILLAR TV * "tvg-logo="https://i.postimg.cc/yNkKxtN6/FRUTILLAR-TV.png"group-title="⭐MUSICAL⭐",⭐|➾FRUTILLAR TV * |HD| 
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-#EXTINF:-1 tvg-id="X TV * "tvg-name="⭐|X TV * "tvg-logo="https://i.imgur.com/sJfB0AE.png"group-title="⭐MUSICAL⭐",⭐|➾X TV * |HD| (CHACHAPOYAS)
+#EXTINF:-1 tvg-id="X TV * "tvg-name="⭐|➾X TV * "tvg-logo="https://i.imgur.com/sJfB0AE.png"group-title="⭐MUSICAL⭐",⭐|➾X TV * |HD| (CHACHAPOYAS)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-#EXTINF:-1 tvg-id="ONDA WEB RADIO  * "tvg-name="⭐|ONDA WEB RADIO  * "tvg-logo="https://i.postimg.cc/wBY8qcD0/ONDA-WEB-RADIO.png"group-title="⭐MUSICAL⭐",⭐|➾ONDA WEB RADIO  * |HD| 
+#EXTINF:-1 tvg-id="ONDA WEB RADIO  * "tvg-name="⭐|➾ONDA WEB RADIO  * "tvg-logo="https://i.postimg.cc/wBY8qcD0/ONDA-WEB-RADIO.png"group-title="⭐MUSICAL⭐",⭐|➾ONDA WEB RADIO  * |HD| 
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="VEVO COUNTRY * "tvg-name="⭐|VEVO COUNTRY * "tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO-COUNTRY.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO COUNTRY * |HD| 
+#EXTINF:-1 tvg-id="VEVO COUNTRY * "tvg-name="⭐|➾VEVO COUNTRY * "tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO-COUNTRY.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO COUNTRY * |HD| 
 https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevocountry-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO LATINO *  "tvg-name="⭐|VEVO LATINO *  "tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO LATINO * |HD| 
+#EXTINF:-1 tvg-id="VEVO LATINO *  "tvg-name="⭐|➾VEVO LATINO *  "tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO LATINO * |HD| 
 https://amg00056-vevotv-vevolatino-localnow-hc6lb.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO ICONOS LATINOS * "tvg-name="⭐|VEVO ICONOS LATINOS * "tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ICONOS LATINOS * |HD|
+#EXTINF:-1 tvg-id="VEVO ICONOS LATINOS * "tvg-name="⭐|➾VEVO ICONOS LATINOS * "tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ICONOS LATINOS * |HD|
 https://amg00056-vevotv-vevoiconos-localnow-vc4o6.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO POP * "tvg-name="⭐|VEVO POP * "tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO-POP-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO POP * |HD|
+#EXTINF:-1 tvg-id="VEVO POP * "tvg-name="⭐|➾VEVO POP * "tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO-POP-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO POP * |HD|
 https://amg00056-vevotv-vevopop-localnow-0c0pg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO R&B * "tvg-name="⭐|VEVO R&B * "tvg-logo="https://i.postimg.cc/kgs7XXjm/VEVO-R-B-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO R&B * |HD|
+#EXTINF:-1 tvg-id="VEVO R&B * "tvg-name="⭐|➾VEVO R&B * "tvg-logo="https://i.postimg.cc/kgs7XXjm/VEVO-R-B-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO R&B * |HD|
 https://amg00056-vevotv-vevornb-localnow-e6fya.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO REGGAETTON * "tvg-name="⭐|VEVO REGGAETTON * "tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO REGGAETTON * |HD|
+#EXTINF:-1 tvg-id="VEVO REGGAETTON * "tvg-name="⭐|➾VEVO REGGAETTON * "tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO REGGAETTON * |HD|
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO RETRO ROCK * "tvg-name="⭐|VEVO RETRO ROCK * "tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON-TV.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO RETRO ROCK * |HD|
+#EXTINF:-1 tvg-id="VEVO RETRO ROCK * "tvg-name="⭐|➾VEVO RETRO ROCK*"tvg-logo="https://i.postimg.cc/qMNzCN7t/VEVO-RETRO-ROCK.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO RETRO ROCK * |HD|
 https://amg00056-vevotv-vevoretrorock-localnow-k4zs8.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO REGIONAL MEXICO *  "tvg-name="⭐|VEVO REGIONAL MEXICO * "tvg-logo="https://i.postimg.cc/rpTcc4V8/VEVO-TV-MEXIXO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO REGIONAL MEXICO * |HD|
+#EXTINF:-1 tvg-id="VEVO REGIONAL MEXICO * "tvg-name="⭐|➾VEVO REGIONAL MEXICO * "tvg-logo="https://i.postimg.cc/qMhGwM7Y/VEVO-REGIONAL-MEXICO.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO REGIONAL MEXICO * |HD|
 https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO ¨70s * "tvg-name="⭐|VEVO ¨70s * "tvg-logo="https://i.postimg.cc/nL1xLLrq/VEVO-TV-70s.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨70s * |HD|
+#EXTINF:-1 tvg-id="VEVO ¨70s * "tvg-name="⭐|➾VEVO ¨70s * "tvg-logo="https://i.postimg.cc/nL1xLLrq/VEVO-TV-70s.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨70s * |HD|
 https://amg00056-vevotv-vevo70s-localnow-54fdh.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="➾VEVO ¨80s* "tvg-name="⭐|➾VEVO ¨80s* "tvg-logo="https://i.postimg.cc/W3bvqPqC/VEVO-80s.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨80s* |HD|
 https://amg00056-vevotv-vevo80s-localnow-62dfp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO ¨90s* "tvg-name="⭐|VEVO ¨90s* "tvg-logo="https://i.postimg.cc/HsfdZKF8/VEVO90s.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨90s* |HD|
+#EXTINF:-1 tvg-id="VEVO ¨90s* "tvg-name="⭐|➾VEVO ¨90s* "tvg-logo="https://i.postimg.cc/HsfdZKF8/VEVO90s.png"group-title="⭐MUSICAL⭐",⭐|➾VEVO ¨90s* |HD|
 https://amg00056-vevotv-vevo90s-localnow-n1kem.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PANAVISION TV * "tvg-name=" ⭐ PANAVISION TV * "tvg-logo="https://i.imgur.com/5LOhDq4.png"group-title="⭐MUSICAL⭐",⭐|➾PANAVISION TV VENEZUELA * |HD|
+#EXTINF:-1 tvg-id="PANAVISION TV * "tvg-name=" ⭐|➾PANAVISION TV * "tvg-logo="https://i.imgur.com/5LOhDq4.png"group-title="⭐MUSICAL⭐",⭐|➾PANAVISION TV VENEZUELA * |HD|
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1661923004.m3u8
-#EXTINF:-1 tvg-id="CITRICO TV  * "tvg-name=" ⭐ CITRICO TV  * "tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg"group-title=" ⭐MUSICAL⭐ ",⭐|➾ * |HD|
-https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
-#EXTINF:-1 tvg-id="MAKAO TV * "tvg-name="⭐MAKAO TV * "tvg-logo="https://i.postimg.cc/PJGn39CG/MAKAO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾MAKAO TV * |HD|
+#EXTINF:-1 tvg-id="MAKAO TV * "tvg-name="⭐|➾MAKAO TV * "tvg-logo="https://i.postimg.cc/PJGn39CG/MAKAO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾MAKAO TV * |HD|
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-id="OXIGENO TV * "tvg-name="⭐OXIGENO TV * "tvg-logo="https://i.postimg.cc/Dwk4WxfS/OXIGENO-TV-PNG-1.png"group-title="⭐MUSICAL⭐",⭐|➾OXIGENO TV * |HD|
+#EXTINF:-1 tvg-id="OXIGENO TV * "tvg-name="⭐|➾OXIGENO TV * "tvg-logo="https://i.postimg.cc/Dwk4WxfS/OXIGENO-TV-PNG-1.png"group-title="⭐MUSICAL⭐",⭐|➾OXIGENO TV * |HD|
 https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
-#EXTINF:-1 tvg-id="MAS FM 95.9 * "tvg-name="⭐MAS FM 95.9 * "tvg-logo="https://i.postimg.cc/HsnsrVj0/MAS-FM-95-9-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾MAS FM 95.9 * |HD|
+#EXTINF:-1 tvg-id="MAS FM 95.9 * "tvg-name="⭐|➾MAS FM 95.9 * "tvg-logo="https://i.postimg.cc/HsnsrVj0/MAS-FM-95-9-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾MAS FM 95.9 * |HD|
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-id="CITRICO TV  * "tvg-name="⭐CITRICO TV  * "tvg-logo="https://i.postimg.cc/9XJy3Rvy/CITRICO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾CITRICO TV  * |HD|
+#EXTINF:-1 tvg-id="CITRICO TV  * "tvg-name="⭐|➾CITRICO TV  * "tvg-logo="https://i.postimg.cc/9XJy3Rvy/CITRICO-TV.png"group-title="⭐MUSICAL⭐",⭐|➾CITRICO TV  * |HD|
 https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
-#EXTINF:-1 tvg-id="POWER HD * "tvg-name="⭐POWER HD * "tvg-logo="https://i.postimg.cc/q77rQ6mZ/POWEWR-HD-small.png"group-title="⭐MUSICAL⭐",⭐|➾POWER TV * |HD|
+#EXTINF:-1 tvg-id="POWER HD * "tvg-name="⭐|➾POWER HD * "tvg-logo="https://i.postimg.cc/q77rQ6mZ/POWEWR-HD-small.png"group-title="⭐MUSICAL⭐",⭐|➾POWER TV * |HD|
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 tvg-id="TVM 3 TV * "tvg-name="⭐TVM 3 TV * "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png"group-title="⭐MUSICAL⭐",⭐|➾TVM 3 TV * |HD|
+#EXTINF:-1 tvg-id="TVM 3 TV *"tvg-name="⭐|➾TVM 3 TV *"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png"group-title="⭐MUSICAL⭐",⭐|➾TVM 3 TV * |HD|
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-id="MILENIO TV  * "tvg-name="⭐MILENIO TV  * "tvg-logo="https://i.postimg.cc/DZ4XspQZ/milennio-tvesp.png"group-title="⭐MUSICAL⭐",⭐|➾MILENIO TV  * |HD|
+#EXTINF:-1 tvg-id="MILENIO TV * "tvg-name="⭐|➾MILENIO TV  * "tvg-logo="https://i.postimg.cc/DZ4XspQZ/milennio-tvesp.png"group-title="⭐MUSICAL⭐",⭐|➾MILENIO TV  * |HD|
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="SHOWVEN TV  * "tvg-name="⭐SHOWVEN TV  * "tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png"group-title="⭐MUSICAL⭐",⭐|➾SHOWVEN TV  * |HD|
+#EXTINF:-1 tvg-id="SHOWVEN TV * "tvg-name="⭐|➾SHOWVEN TV  * "tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png"group-title="⭐MUSICAL⭐",⭐|➾SHOWVEN TV  * |HD|
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CANTINA TV  * "tvg-name="⭐CANTINA TV  * "tvg-logo="https://i.postimg.cc/SRcMvdzh/LA-CANTINA-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾CANTINA TV  * |HD|
+#EXTINF:-1 tvg-id="CANTINA TV * "tvg-name="⭐|➾CANTINA TV  * "tvg-logo="https://i.postimg.cc/SRcMvdzh/LA-CANTINA-TV-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾CANTINA TV  * |HD|
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id=" V CLASSIC TV * "tvg-name="⭐ V CLASSIC TV * "tvg-logo="https://i.postimg.cc/XvF3tCw9/VCLASSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾ V ClASSIC TV  * |HD|
+#EXTINF:-1 tvg-id=" V CLASSIC TV * "tvg-name="⭐|➾V CLASSIC TV * "tvg-logo="https://i.postimg.cc/XvF3tCw9/VCLASSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾ V ClASSIC TV  * |HD|
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="V CLASSIC TROPICAL* "tvg-name="⭐V CLASSIC TROPICAL * "tvg-logo="https://i.postimg.cc/c4SWw7zy/VCLASSICTV-TROPICAL.png"group-title="⭐MUSICAL⭐",⭐|➾ VClASSIC TV  * |HD|
+#EXTINF:-1 tvg-id="V CLASSIC TROPICAL* "tvg-name="⭐|➾V CLASSIC TROPICAL * "tvg-logo="https://i.postimg.cc/c4SWw7zy/VCLASSICTV-TROPICAL.png"group-title="⭐MUSICAL⭐",⭐|➾ VClASSIC TV  * |HD|
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="LATINOS RADIO * "tvg-name="⭐LATINOS RADIO * "tvg-logo="https://i.postimg.cc/9X6RcWrc/LATINOS-RADIO-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾LATINOS RADIO * | CL * |HD|
+#EXTINF:-1 tvg-id="LATINOS RADIO * "tvg-name="⭐|➾LATINOS RADIO * "tvg-logo="https://i.postimg.cc/9X6RcWrc/LATINOS-RADIO-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾LATINOS RADIO * | CL * |HD|
 https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="PLANETA TV MUSIC * "tvg-name="⭐PLANETA TV MUSIC * "tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="⭐MUSICAL⭐",⭐|➾PLANETA TV MUSIC * | CL * |HD|
+#EXTINF:-1 tvg-id="PLANETA TV MUSIC * "tvg-name="⭐|➾PLANETA TV MUSIC * "tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="⭐MUSICAL⭐",⭐|➾PLANETA TV MUSIC * | CL * |HD|
 https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="HOUSE MUSIC TV * "tvg-name="⭐HOUSE MUSIC TV * "tvg-logo="https://i.postimg.cc/KjNSLhyp/HOUSE-MUSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾HOUSE MUSIC TV * | CL * |HD|
+#EXTINF:-1 tvg-id="HOUSE MUSIC TV * "tvg-name="⭐|➾HOUSE MUSIC TV * "tvg-logo="https://i.postimg.cc/KjNSLhyp/HOUSE-MUSIC-TV.png"group-title="⭐MUSICAL⭐",⭐|➾HOUSE MUSIC TV * | CL * |HD|
 https://paneltv.net:3767/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TELEANDINA 23 TV * "tvg-name="⭐|➾TELEANDINA 23 TV  * "tvg-logo="https://i.postimg.cc/Nj7qGQWG/Teleandina.png"group-title="⭐MUSICAL⭐",⭐|➾TELEANDINA 23 TV * |HD|
+https://cdnh8.iblups.com/hls/nYpuHInbec.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="K POP TV PLAY * "tvg-name="⭐|➾K POP TV PLAY *"tvg-logo="https://i.postimg.cc/vB8LdqnC/image.png"group-title="⭐MUSICAL⭐",⭐|➾K POP TV PLAY  * |HD|
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="VALLENATO INTERNACIONAL "tvg-name="⭐|➾VALLENATO INTERNACIONAL "tvg-logo="https://i.postimg.cc/wTcPNgk1/VALLENATO-INT.png"group-title="⭐MUSICAL⭐",⭐|➾VALLENATO INTERNACIONAL* |HD| 
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK TV  "tvg-name="⭐|➾MUZZIK TV *"tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK TV * |HD|
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK R&R *"tvg-name="⭐|➾MUZZIK R&R *"tvg-logo="https://i.postimg.cc/J4sM6F3y/MUZZIC-R-R.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK  R&R * |HD|
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK *"tvg-name="⭐|➾MUZZIK *"tvg-logo="https://i.postimg.cc/T1kZxnm2/MUZZIC-PIOPSTAR.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK HD * |HD|
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK  *"tvg-name="⭐|➾MUZZIK  *"tvg-logo="https://i.postimg.cc/VvYWRTJ5/MUZZIC-WWM.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK  * |HD|
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK TIKTAK *"tvg-name="⭐|➾MUZZIK TIKTAK *"tvg-logo="https://i.postimg.cc/rF5f5vQG/MUZZIC-TIKTAK.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK TIKTAK  * |HD|
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK JEKA  *"tvg-name="⭐|➾MUZZIK JEKA *"tvg-logo="https://i.postimg.cc/s1CfJph3/MUZZIK-JEKA.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK JEKA  * |HD|
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK Z&Z  *"tvg-name="⭐|➾MUZZIK Z&Z *"tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK Z&Z * |HD|
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK SENSE  *"tvg-name="⭐|➾MUZZIK SENSE *"tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK SENSE  * |HD|
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK  *"tvg-name="⭐|➾MUZZIK  *"tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK  * |HD|
+https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK FLASH BACK  *"tvg-name="⭐|➾MUZZIK FLASH BACK *"tvg-logo="https://i.postimg.cc/vHq0dKb5/MUZZIK-FLASHBACK.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK FLASH BACK  * |HD|
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-id="MUZZIK MOBA  *"tvg-name="⭐|➾MUZZIK MOBA *"tvg-logo="https://i.postimg.cc/Hx0VQFBK/MUZZIK-MOBA.png"group-title="⭐MUSICAL⭐",⭐|➾MUZZIK MOBA  * |HD|
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
